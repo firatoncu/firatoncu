@@ -22,10 +22,6 @@
 • Dozens of analysis (Buy-Box, View to Purchase times, Cargo fee analysis and more)</br>
 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 
 <h3 align="left">Languages</h3>
 <a href="https://www.python.org" target="_blank"> 
