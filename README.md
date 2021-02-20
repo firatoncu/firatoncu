@@ -1,8 +1,10 @@
 <h1 align="center"> Fırat Öncü</h1>
 <h3 align="center">Big Data Developer. ML, DL, passionate with everything about data.</h3>
 
-<h4 align="right">Currently Working @Hepsiburada</h5>
+<h4 align="right">Currently Working @Hepsiburada</h4>
 
+<h4 align="left">Projects</h4>
+- Single Catalog
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
