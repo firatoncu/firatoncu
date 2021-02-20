@@ -1,5 +1,6 @@
 <h1 align="center"> Fırat Öncü</h1>
 <h3 align="center">Big Data Developer. ML, DL, passionate with everything about data.</h3>
+<h4 align="center">tech enthusiastic</h4>
 
 <h4 align="right">Currently Working @Hepsiburada</h4>
 
