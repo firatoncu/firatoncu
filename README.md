@@ -1,6 +1,5 @@
 <h1 align="center"> Fırat Öncü</h1>
 <h3 align="center">Big Data Developer. ML, DL, passionate with everything about data.</h3>
-<h4 align="center">tech enthusiastic</h4>
 
 <h4 align="right">Currently Working @Hepsiburada</h4>
 
@@ -21,10 +20,11 @@
 • Building complex & scheduled workflows using Oozie</br>
 • Creating full automated setup tools for Data Science environments on VM servers</br>
 • Dozens of analysis (Buy-Box, View to Purchase times, Cargo fee analysis and more)</br>
+• Solving self-determined problems using ML approaches
 
 
 
-<h3 align="left">Languages</h3>
+## Programming Languages
 <a href="https://www.python.org" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
@@ -39,7 +39,8 @@
   
   
   
-<h3 align="left">Big Data Platforms</h3>
+
+## Big Data Platforms
 <a href="https://www.elastic.co" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
 
@@ -59,7 +60,7 @@
   <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> 
   
 
-<h3 align="left">Python Libraries</h3>
+## Python Libraries
 <a href="https://pytorch.org/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 
@@ -74,7 +75,7 @@
   
   
 
-<h3 align="left">OS</h3>
+## OS
 <a href="https://www.linux.org/" target="_blank"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   
@@ -87,8 +88,7 @@
 
 
 
-<h3 align="left">Other</h3>
-
+## Others
 <a href="https://www.atlassian.com/software/jira" target="_blank"> 
  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/> </a> 
  
@@ -98,7 +98,7 @@
 
 
   
-<h3 align="left">Connect with me:</h3>
+## Connect With Me 
 <p align="left">
 <a href="https://linkedin.com/in/oncufirat" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="oncufirat" height="30" width="40" /></a>
