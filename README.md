@@ -4,7 +4,24 @@
 <h4 align="right">Currently Working @Hepsiburada</h4>
 
 <h4 align="left">Projects</h4>
-- Single Catalog
+- Price Anomaly Detection
+- Estimated Arrival Date
+- Warehouse Optimization
+- Merchant Rating Calculation
+- Customer Lifecycle Management
+
+<h4 align="left">Also took part in</h4>
+- Category Deduplication Engine (Single Catalog)
+- Personal Library
+- Bulk Buyers
+
+<h4 align="left">Additionally</h4>
+- Cross-platform data transfer scripts (between Hadoop, Python, Elasticsearch, mongoDB, Kafka)
+- Building complex & scheduled workflows using Oozie
+- Creating full automated setup tools for Data Science environments on VM servers
+- Dozens of analysis (Buy-Box, View to Purchase times, 
+
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -70,8 +87,11 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/oncufirat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="oncufirat" height="30" width="40" /></a>
-<a href="https://medium.com/@f0ncu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@f0ncu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oncufirat" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="oncufirat" height="30" width="40" /></a>
+  
+<a href="https://medium.com/@f0ncu" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@f0ncu" height="30" width="40" /></a>
 </p>
 
 
