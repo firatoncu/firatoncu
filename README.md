@@ -16,7 +16,7 @@
 • Bulk Buyers</br>
 
 <h4 align="left">Additionally...</h4>
-• 3+ years E-Commerce. Deep knowledge about customer behavior and business.</br>
+• 3+ years in E-Commerce domain. Deep knowledge about customer behavior and business.</br>
 • Cross-platform data transfer scripts (between Hadoop, Python, Elasticsearch, mongoDB, Kafka)</br>
 • Building complex & scheduled workflows using Oozie</br>
 • Creating full automated setup tools for Data Science environments on VM servers</br>
