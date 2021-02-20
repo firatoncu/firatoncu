@@ -50,6 +50,14 @@
 <a href="https://www.linux.org/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   
+  
+<a href="https://www.linux.org/" target="_blank"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/OS_X_El_Capitan_logo.svg/1200px-OS_X_El_Capitan_logo.svg.png" alt="macosx" width="40" height="40"/> </a> 
+  
+  <a href="https://www.linux.org/" target="_blank"> 
+  <img src="https://osxinfo.net/eklentiler/ddzwui2-0daf72b7-fba9-43ec-8de1-35e6aa53e2fd-png.25823/" alt="macosx" width="40" height="40"/> </a> 
+  
+  
 
 <h3 align="left">Python Libraries</h3>
 <a href="https://pytorch.org/" target="_blank"> 
