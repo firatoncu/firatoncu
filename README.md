@@ -4,16 +4,16 @@
 <h4 align="right">Currently Working @Hepsiburada</h4>
 
 <h4 align="left">Projects:</h4>
-• Price Anomaly Detection      -💸</br>
-• Estimated Arrival Date       -🚛</br>
-• Warehouse Optimization       -🏭</br>
-• Merchant Rating Calculation  -💯</br>
-• Customer Lifecycle Management-🔄</br>
+• Price Anomaly Detection      </br>
+• Estimated Arrival Date       </br>
+• Warehouse Optimization       </br>
+• Merchant Rating Calculation  </br>
+• Customer Lifecycle Management</br>
 
 <h4 align="left">Also took part in:</h4>
-• Single Catalog Engine 🛂</br>
-• Personal Library      📚</br>
-• Bulk Buyers           🛒</br>
+• Single Catalog Engine </br>
+• Personal Library      </br>
+• Bulk Buyers           </br>
 
 <h4 align="left">Additionally...</h4>
 • 3+ years in E-Commerce domain. Deep knowledge about customer behavior and business.</br>
