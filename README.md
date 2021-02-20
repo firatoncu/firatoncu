@@ -4,22 +4,22 @@
 <h4 align="right">Currently Working @Hepsiburada</h4>
 
 <h4 align="left">Projects:</h4>
-- Price Anomaly Detection</br>
-- Estimated Arrival Date</br>
-- Warehouse Optimization</br>
-- Merchant Rating Calculation</br>
-- Customer Lifecycle Management</br>
+• Price Anomaly Detection</br>
+• Estimated Arrival Date</br>
+• Warehouse Optimization</br>
+• Merchant Rating Calculation</br>
+• Customer Lifecycle Management</br>
 
 <h4 align="left">Also took part in:</h4>
-- Category Deduplication Engine (Single Catalog)</br>
-- Personal Library</br>
-- Bulk Buyers</br>
+• Category Deduplication Engine (Single Catalog)</br>
+• Personal Library</br>
+• Bulk Buyers</br>
 
 <h4 align="left">Additionally...</h4>
-- Cross-platform data transfer scripts (between Hadoop, Python, Elasticsearch, mongoDB, Kafka)</br>
-- Building complex & scheduled workflows using Oozie</br>
-- Creating full automated setup tools for Data Science environments on VM servers</br>
-- Dozens of analysis (Buy-Box, View to Purchase times, Cargo fee analysis and more)</br>
+• Cross-platform data transfer scripts (between Hadoop, Python, Elasticsearch, mongoDB, Kafka)</br>
+• Building complex & scheduled workflows using Oozie</br>
+• Creating full automated setup tools for Data Science environments on VM servers</br>
+• Dozens of analysis (Buy-Box, View to Purchase times, Cargo fee analysis and more)</br>
 
 
 ### Blogs posts
