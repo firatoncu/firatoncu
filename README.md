@@ -16,6 +16,7 @@
 • Bulk Buyers</br>
 
 <h4 align="left">Additionally...</h4>
+• 3+ years and deep knowledge about customer behaviour on E-Commerce domain</br>
 • Cross-platform data transfer scripts (between Hadoop, Python, Elasticsearch, mongoDB, Kafka)</br>
 • Building complex & scheduled workflows using Oozie</br>
 • Creating full automated setup tools for Data Science environments on VM servers</br>
