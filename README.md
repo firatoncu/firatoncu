@@ -11,15 +11,15 @@
 - Customer Lifecycle Management</br>
 
 <h4 align="left">Also took part in:</h4>
-- Category Deduplication Engine (Single Catalog)
-- Personal Library
-- Bulk Buyers
+- Category Deduplication Engine (Single Catalog)</br>
+- Personal Library</br>
+- Bulk Buyers</br>
 
 <h4 align="left">Additionally...</h4>
-- Cross-platform data transfer scripts (between Hadoop, Python, Elasticsearch, mongoDB, Kafka)
-- Building complex & scheduled workflows using Oozie
-- Creating full automated setup tools for Data Science environments on VM servers
-- Dozens of analysis (Buy-Box, View to Purchase times, 
+- Cross-platform data transfer scripts (between Hadoop, Python, Elasticsearch, mongoDB, Kafka)</br>
+- Building complex & scheduled workflows using Oozie</br>
+- Creating full automated setup tools for Data Science environments on VM servers</br>
+- Dozens of analysis (Buy-Box, View to Purchase times, Cargo fee analysis and more)</br>
 
 
 ### Blogs posts
@@ -61,8 +61,6 @@
 <a href="https://hive.apache.org/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> 
   
-  
-
 
 <h3 align="left">Python Libraries</h3>
 <a href="https://pytorch.org/" target="_blank"> 
@@ -70,6 +68,12 @@
 
 <a href="https://www.tensorflow.org" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+  
+
+<a href="https://www.keras.io" target="_blank"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="keras" width="40" height="40"/> </a> </p>
+  
+  
   
   
 
@@ -83,7 +87,19 @@
   
 <a href="https://www.apple.com/tr/macos/big-sur/" target="_blank"> 
  <img src="https://osxinfo.net/eklentiler/ddzwui2-0daf72b7-fba9-43ec-8de1-35e6aa53e2fd-png.25823/" alt="macosx" width="40" height="40"/> </a> 
-  
+
+
+
+<h3 align="left">Other</h3>
+
+<a href="https://www.atlassian.com/software/jira" target="_blank"> 
+ <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/> </a> 
+ 
+
+<a href="https://www.github.com" target="_blank"> 
+ <img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" alt="git" width="40" height="40"/> </a> 
+
+
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
