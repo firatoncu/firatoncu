@@ -46,6 +46,17 @@
 <a href="https://www.mongodb.com/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 
+
+
+<h3 align="left">Python Libraries</h3>
+<a href="https://pytorch.org/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+
+<a href="https://www.tensorflow.org" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+  
+  
+
 <h3 align="left">OS</h3>
 <a href="https://www.linux.org/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
@@ -59,9 +70,4 @@
   
   
 
-<h3 align="left">Python Libraries</h3>
-<a href="https://pytorch.org/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 
-<a href="https://www.tensorflow.org" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
