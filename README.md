@@ -20,7 +20,7 @@
 • Cross-platform data transfer scripts (between Hadoop, Python, Elasticsearch, mongoDB, Kafka)</br>
 • Building complex & scheduled workflows using Oozie</br>
 • Creating full automated setup tools for Data Science environments on VM servers</br>
-• Dozens of analysis (Buy-Box, View to Purchase times, Cargo fee analysis and more)</br>
+• Dozens of analysis (Buy-Box, View to Purchase times, 3D Secure Usage, Cargo fee analysis and more)</br>
 • Solving self-determined problems using ML approaches </br> </br>
 
 
